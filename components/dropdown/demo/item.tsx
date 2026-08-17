@@ -7,7 +7,7 @@ const items: MenuProps['items'] = [
   {
     label: (
       <a target="_blank" rel="noopener noreferrer" href="https://www.antgroup.com">
-        1st menu item
+        1st menu itemk
       </a>
     ),
     key: '0',
@@ -19,9 +19,6 @@ const items: MenuProps['items'] = [
       </a>
     ),
     key: '1',
-  },
-  {
-    type: 'divider',
   },
   {
     label: '3rd menu item（disabled）',
